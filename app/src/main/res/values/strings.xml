@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="action_settings">Settings</string>
+    <string name="String_Usuario">Usuario</string>
+    <string name="String_Password">Password</string>
+    <string name="String_Ingresar">Ingresar</string>
+    <string name="String_Reguistrar">Reguistrar</string>
+    <string name="String_name">Nombre</string>
+    <string name="String_Lastname">Apellidos</string>
+
+
+
+
+</resources>
